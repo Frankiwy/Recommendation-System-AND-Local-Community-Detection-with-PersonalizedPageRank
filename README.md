@@ -1,6 +1,6 @@
 # Recommendation System & Local Community Detection with PersonalizedPageRank
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Frankiwy/Recommendation-System-AND-Local-Community-Detection-with-PersonalizedPageRank/blob/main/images/logo-sapienza-new.jpg)
 
 
 
