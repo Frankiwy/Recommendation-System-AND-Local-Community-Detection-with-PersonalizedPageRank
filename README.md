@@ -1,4 +1,8 @@
-# Recommendation-System & Local Community Detection with PersonalizedPageRank
+# Recommendation System & Local Community Detection with PersonalizedPageRank
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 
 ### Part 1
 In this part, you have to improve the performance of a recommendation-system by using non-trivial algorithms and also by performing the tuning of the hyper-parameters.
